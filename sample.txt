@@ -1,1 +1,2 @@
-
+angular-services
+this projects explores all the services of angularJs
